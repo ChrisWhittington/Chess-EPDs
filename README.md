@@ -59,8 +59,11 @@ these last two have not been give a final checkover, but passed two engines wort
 5000 plus positions each with check involved (thanks to Ferninand Mosca)
 ferdy_perft_single_check_1.epd to ferdy_perft_single_check_19.epd
 
-3000 plus positions with en passent check involved (thanks to Ferninand Mosca)
-ferdy_perft_enpassent_1.epd
+3000 plus positions with en passant check involved (thanks to Ferninand Mosca)
+ferdy_perft_enpassant_1.epd
+
+180 positions with double check involved (thanks to Ferninand Mosca)
+ferdy_perft_double_checks.epd
 
 
 
