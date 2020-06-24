@@ -4,9 +4,11 @@ Various EPD test suites, Public Domain, no Copyright should apply.
 Where known, EPD original source credited.
 Collected up from various Internet sources.
 
-# Added Odds-suites in two directories
+# Added Odds-suites in three directories
 1. Normal opening type positions
 2. Random opening type positions
+3. Master lists for nite-odds for gauntlet testing. These are the nites-odds suites that testers should use in order
+to remain consisent with each other.
 
 There are suites for knight-odds, bishop-odds, rook-odds, queen-odds, pawn-f2-odds and a few others.
 Probably the knight odds are the most useful.
