@@ -4,6 +4,17 @@ Various EPD test suites, Public Domain, no Copyright should apply.
 Where known, EPD original source credited.
 Collected up from various Internet sources.
 
+# Added Odds-suites in two directories
+1. Normal opening type positions
+2. Random opening type positions
+
+There are suites for knight-odds, bishop-odds, rook-odds, queen-odds, pawn-f2-odds and a few others.
+Probably the knight odds are the most useful.
+The Normal opening types suites contain mostly chess-normal positions and are the better ones to use for testing purposes.
+
+At time of writing, testes are seemingly showing that Stockfish 11 (latest version) is able to give knight odds
+against Grandmaster strength chess engines from several years ago and achieve a 50-50 result.
+
 This batch all have bm = 'BestMove' indicated.
 ----------------------------------------------
 900 plus random positions
